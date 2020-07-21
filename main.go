@@ -1,4 +1,5 @@
 // Sample vision-quickstart uses the Google Cloud Vision API to label an image.
+// Beatriz was here
 package main
 
 import (
